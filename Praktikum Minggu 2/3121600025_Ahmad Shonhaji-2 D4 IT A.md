@@ -11,6 +11,7 @@ Wireshark menggunakan warna untuk membantu mengidentifikasi jenis lalu lintas se
 |     Dark yellow    |                                    Routing                                   |
 |      Dark gray     |                         TCP SYN, FIN and ACK traffic                         |
 |         Red        |                            Invalid Display Filter                            |
+|         Pink        |                                  ICMP                                       |
  Black Color
 [![black.png](https://i.postimg.cc/B6VvyYdR/black.png)](https://postimg.cc/ZB6ZvcYL)
 
@@ -23,6 +24,8 @@ Dark gray and Red
 Light yellow and Light yellow
 [![color-whireshark.png](https://i.postimg.cc/90p5qrcV/color-whireshark.png)](https://postimg.cc/5Q6kh9Hk)
 
+pink
+[![pink.png](https://i.postimg.cc/50Kk5QLL/pink.png)](https://postimg.cc/gXRDmJM2)
 
 ## Packet Analyzer
 
