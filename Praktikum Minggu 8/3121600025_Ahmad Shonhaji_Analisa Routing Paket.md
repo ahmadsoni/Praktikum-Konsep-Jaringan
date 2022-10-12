@@ -72,6 +72,8 @@ Topologi diatas terdiri dari 3 buah router, 2 buah PC, dan 2 buah switch. Jenis 
 |          	|     192.168.2.0     	| 255.255.255.0 	| 192.168.1.2 	| 10 (Default) 	|
 | Router 2 	|     192.168.5.0     	| 255.255.255.0 	| 192.168.3.1 	| 10 (Default) 	|
 |          	|     192.168.1.0     	| 255.255.255.0 	| 192.168.2.2 	| 10 (Default) 	|
+
+
 Dalam konfigurasi static routing diatas, dapat dilakukan dengan cara memasukkan perintah pada CLI. Struktur perintah untuk memberikan konfigurasi di atas sebagai berikut, "ip route [destination network] [netmask] [via] [metric]".
 
 **Percobaan TracerRoute**
